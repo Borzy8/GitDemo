@@ -12,6 +12,7 @@
 		894EBD8E2131B86000E9184F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 894EBD8C2131B86000E9184F /* Main.storyboard */; };
 		894EBD902131B86000E9184F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 894EBD8F2131B86000E9184F /* Assets.xcassets */; };
 		894EBD932131B86000E9184F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 894EBD912131B86000E9184F /* LaunchScreen.storyboard */; };
+		894EBD9B2131B97C00E9184F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 894EBD9A2131B97C00E9184F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		894EBD8F2131B86000E9184F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		894EBD922131B86000E9184F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		894EBD942131B86000E9184F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		894EBD9A2131B97C00E9184F /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = ../.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				894EBD8F2131B86000E9184F /* Assets.xcassets */,
 				894EBD912131B86000E9184F /* LaunchScreen.storyboard */,
 				894EBD942131B86000E9184F /* Info.plist */,
+				894EBD9A2131B97C00E9184F /* .gitignore */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				894EBD9B2131B97C00E9184F /* .gitignore in Resources */,
 				894EBD932131B86000E9184F /* LaunchScreen.storyboard in Resources */,
 				894EBD902131B86000E9184F /* Assets.xcassets in Resources */,
 				894EBD8E2131B86000E9184F /* Main.storyboard in Resources */,
@@ -289,6 +293,7 @@
 				894EBD992131B86000E9184F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
